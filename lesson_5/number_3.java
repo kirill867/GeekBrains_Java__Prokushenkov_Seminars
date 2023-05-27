@@ -1,4 +1,4 @@
-package lesson_4;
+package lesson_5;
 
 public class number_3{
     private int[] column; // Есть ли ферзь в том же столбце, 1 означает, что есть
